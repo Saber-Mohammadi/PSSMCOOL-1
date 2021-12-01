@@ -3,7 +3,7 @@ install.packages("PSSMCOOL")
 library(PSSMCOOL)
 
 # setting up working environment and downloading necessary files from GitHub
-current_directory <- "D:/Paper submission/Alireza Mohammadi/second revise/R code/"
+current_directory <- "D:/Paper submission/PSSMCOOL/R code/"
 setwd(current_directory)
 # Downloading the required PSSM files
 pssm_url <- 'https://github.com/BioCool-Lab/PSSMCOOL/raw/main/classification-code-data/all_needed_pssms90.zip'
